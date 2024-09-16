@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/BagreyA/Android.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/BagreyA/Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/BagreyA/Frontend.git
